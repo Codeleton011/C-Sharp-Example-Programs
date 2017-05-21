@@ -19,7 +19,6 @@ namespace _2_data_types
             const double PI = 3.14; // Const means -> Not changeable
             string hello = "Hello";
             bool used = true;
-            //....
 
             // {0} like %type in C
             Console.WriteLine("Number: {0}", num);
