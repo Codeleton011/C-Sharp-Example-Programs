@@ -16,7 +16,7 @@ namespace _19_Exception_handling
         {
             int a = 10;
             int b = 0;
-            int c;
+            int c = 0;
 
             try
             {
